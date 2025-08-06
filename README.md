@@ -53,15 +53,19 @@ colorthief==0.2.1
 ```
 
 ## 📖 How to Use
-<img width="865" height="459" alt="image" src="https://github.com/user-attachments/assets/b79df984-e5d1-4fa9-9a32-65a078d3bf05" />
+<img width="865" height="367" alt="image" src="https://github.com/user-attachments/assets/630b6ccf-a2cf-40a5-acd4-80d2cb77279a" />
 
-<img width="865" height="459" alt="image" src="https://github.com/user-attachments/assets/4e13ea7e-14a8-44d1-bf82-4388daeeebd5" />
 
-<img width="865" height="458" alt="image" src="https://github.com/user-attachments/assets/2bddebec-cabb-458d-80da-31f805c4431c" />
+<img width="865" height="354" alt="image" src="https://github.com/user-attachments/assets/d588633e-111f-45cd-b9a3-4d4faf639da9" />
 
-<img width="865" height="459" alt="image" src="https://github.com/user-attachments/assets/657e9609-3e9f-4178-8456-54250eedbdd7" />
 
-<img width="865" height="458" alt="image" src="https://github.com/user-attachments/assets/6746126d-7c2e-4168-8952-b53cd328c3b0" />
+<img width="865" height="372" alt="image" src="https://github.com/user-attachments/assets/e8d65a57-0e9b-4fab-84e6-36307eed34a0" />
+
+
+
+<img width="865" height="356" alt="image" src="https://github.com/user-attachments/assets/a8add2b0-6e3b-434a-9433-a38e6dd0420e" />
+
+<img width="865" height="351" alt="image" src="https://github.com/user-attachments/assets/e9d0196a-9bf9-4871-9573-9314d3ec6b0b" />
 
 
 ## 🙏 Acknowledgments
